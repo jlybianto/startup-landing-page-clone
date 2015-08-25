@@ -429,9 +429,17 @@ th {
 /* Navigation Section */
 .top-navigation {
   background-color: #fff;
+  position: fixed;
+  width: 100%;
+  border-bottom: 1px solid #DDD;
+  z-index: 9999;
 }
 .top-navigation > .content {
   width: 970px;
   height: 70px;
   margin: 0 auto;
+}
+.top-navigation .logo {
+  height: 4.375rem;
+  margin-left: 14px;
 }
