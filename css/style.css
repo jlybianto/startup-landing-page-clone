@@ -454,6 +454,7 @@ body {
 }
 .top-navigation > .content {
   height: 4.375rem;
+  width: 60%;
 }
 .top-navigation .logo {
   height: 4.375rem;
@@ -532,6 +533,7 @@ button:hover {
   padding: none;
   color: #1d1e21;
   text-align: center;
+  width: 60%;
 }
 .cases h2 {
   font-size: 2.75rem;
@@ -564,6 +566,15 @@ button:hover {
   border: 0;
   border-top: 1px solid #eaebec;
   margin: 1.313rem 0;
+}
+.social h5 {
+  font-size: 1rem;
+  font-weight: 100;
+  margin: 0;
+}
+.social .icons {
+  margin: 0;
+  padding: 0;
 }
 .social .icons > li {
   border-radius: 1.25rem;
