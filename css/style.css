@@ -454,9 +454,6 @@ body {
 }
 .top-navigation > .content {
   height: 4.375rem;
-  padding: 0px 15px;
-  margin: 0 auto;
-  width: 970px;
 }
 .top-navigation .logo {
   height: 4.375rem;
@@ -590,7 +587,7 @@ button:hover {
 .social .instagram {
   color: #3f729b;
 }
-.social .copy{
+.social .copy {
   font-size: 0.9rem;
   font-weight: 300;
   color: #838994;
